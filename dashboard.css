@@ -1,0 +1,118 @@
+.background-image {
+    background-image: url('https://as2.ftcdn.net/v2/jpg/05/33/41/87/1000_F_533418752_5uUP35KBjZJbaFUr9U0OCXyQHjVn6ueQ.jpg');
+    background-size: cover;
+
+    margin-left:1px;
+    margin-top:px;
+    width: 259px;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    align-items: flex-start; /* Changed to flex-start */
+  }
+  
+  body{
+    margin: 0px;
+  }
+  
+  
+  
+  .nav ul {
+    list-style-type: none;
+    margin-top: 20px;
+    padding:0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Added */
+  }
+  
+  .nav li {
+    margin-bottom: 0px; /* Added */
+  }
+  
+  .nav-container {
+        background-color: grey; /* Light grey background for the left side */
+        padding: 20px; /* Add some padding for better appearance */
+        width: 220px; /* Adjust width as needed */
+        height: 450px;/* Full height of the viewport */
+        
+      }
+  
+  
+  
+  
+  
+  .button0 {
+    background-color: #FFFFF0;
+    border: solid;
+    border-color: black;
+    color: black;
+    padding: 30px 70px;
+    border-radius: 10px;
+    
+    margin-left: 0px;
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+  }
+  
+  .button1 {
+    background-color: #FFFFF0;
+    border: solid;
+    border-color: black;
+    margin-top: 5px;
+    border-radius: 10px;
+    color: black;
+    padding: 30px 64px;
+    margin-left: 0px; /* Changed to 0px */
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+  }
+  
+  .button2 {
+    background-color: #FFFFF0;
+    border: solid;
+    border-color: black;
+    color: black;
+    padding: 30px 65px;
+    margin-left: 0px; /* Changed to 0px */
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-top: 5px;
+  }
+  
+  .button3 {
+    background-color: #FFFFF0;
+    border: solid;
+    border-color: black;
+    color: black;
+    padding: 30px 59px;
+    margin-left: 0px; /* Changed to 0px */
+    text-align: left;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    display: block;
+    font-size: 16px;
+  }
+  
+  .button4 {
+    background-color: #FFFFF0;
+    border: solid;
+    border-color: black;
+    color: black;
+    padding: 30px 78px;
+    margin-left: 0px; /* Changed to 0px */
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-top: 5px;
+  }
